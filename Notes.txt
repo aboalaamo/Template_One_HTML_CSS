@@ -1,0 +1,13 @@
+- Desing of page .
+- Using Comments .
+- Determine all colors and font family .
+- Normalize File .
+- Using Vendor Prefixes .
+- Font Icon : https://fontawesome.com/v4/icons/ .
+- Goggle Fonts .
+- Container For All Page .
+- Html Root .
+- Variables .
+- Own Framework .
+- Scroll Behaviour .
+- Linking Elements .
